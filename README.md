@@ -1,1 +1,7 @@
-mon site web pour le cours git
+# Git/Github Perfectionnement
+## OBJECTIF
+Projet mis en place afin de me familiariser avec les commandes importantes de Git.
+
+## STACK
+- Git
+- Github
